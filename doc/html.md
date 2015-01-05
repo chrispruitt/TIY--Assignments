@@ -94,7 +94,7 @@
 ```
 <article>
   <h4>Read me</h4>
-  <p>Lots of words</>
+  <p>Lots of words</p>
 </article>
 
 ### 8. `<ul>` -- Creates a list of non-numbered items
