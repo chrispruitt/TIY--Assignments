@@ -51,18 +51,37 @@
   <li>I'm number two!</li>
 </ol>
 
-###
+### 4. `<address>` -- Used for contact information
 
-
-* *type:*
-* *content:*
-* *support:*
+* *type:* block-level
+* *content:* flow content, palpable content
+* *support:* all browsers
 * *example:*
+```
+<address>Call me at 407-123-4567</address>
+```
+<address>Call me at 407-123-4567</address>
 
-* *type:*
-* *content:*
-* *support:*
+### 5. `<hr>` -- Horizontal rule (creates horizontal break in page)
+
+* *type:* block-level
+* *content:* flow content
+* *support:* all browsers
 * *example:*
+```
+<p>Hello friends this is</p>
+
+<hr>
+
+<p>a horizontal break</p>
+```
+<p>Hello friends this is</p>
+
+<hr>
+
+<p>a horizontal break</p>
+
+### 6. 
 
 * *type:*
 * *content:*
