@@ -81,22 +81,54 @@
 
 <p>a horizontal break</p>
 
-### 6. 
+### 6. `<footer>` -- creates a footer for the nearest section
 
-* *type:*
-* *content:*
-* *support:*
+* *type:* block-level
+* *content:* flow content, palpable content
+* *support:* all browsers
 * *example:*
+```
+<footer>Copyright AdamKarb2015</footer>
+```
+<footer>Copyright AdamKarb2015</footer>
 
-* *type:*
-* *content:*
-* *support:*
-* *example:*
+### 7. `<article>` -- Typically a self contained independent piece of writing
 
-* *type:*
-* *content:*
-* *support:*
+* *type:* block-level
+* *content:* flow content, sectioning content, palpable content
+* *support:* all browsers
 * *example:*
+```
+<article>
+  <h4>Read me</h4>
+  <p>Lots of words</>
+</article>
+```
+<article>
+  <h4>Read me</h4>
+  <p>Lots of words</>
+</article>
+
+### 8. `<ul>` -- Creates a list of non-numbered items
+
+* *type:* block-level
+* *content:* flow content
+* *support:* all browsers
+* *example:*
+```
+<ul>
+  <li>Dog</li>
+  <li>Guinea Pig</li>
+</ul>
+```
+<ul>
+  <li>Dog</li>
+  <li>Guinea Pig</li>
+</ul>
+
+### 9. 
+
+
 
 * *type:*
 * *content:*
