@@ -1,15 +1,3 @@
-----
-### 1. `<h1>` -- Page Heading, Level 1
-
-* *type:* block-level
-* *content:* phrasing content[1]
-* *support:* all browsers
-* *example:*
-```
-<h1>The Iron Yard | Orlando</h1>
-```
-<h1>The Iron Yard | Orlando</h1>
-
 ### 1. `<div>` -- Document division element
 
 * *type:* block-level
@@ -113,39 +101,60 @@
 
 * *type:* block-level
 * *content:* flow content
+* *support:* all browsers not HTML5
+* *example:*
+```
+<ul>
+  <li>Dog</li>
+  <li>Guinea Pig</li>
+</ul>
+```
+<ul>
+  <li>Dog</li>
+  <li>Guinea Pig</li>
+</ul>
+
+### 9. `<table>` -- Creates a table of inputs
+
+* *type:* block-level
+* *content:* flow content
 * *support:* all browsers
 * *example:*
 ```
-<ul>
-  <li>Dog</li>
-  <li>Guinea Pig</li>
-</ul>
+<table>
+  <tr>
+    <td>Hamster</td>
+    <td>Guinea Pig</td>
+  </tr>
+  <tr>
+    <td>Hamster</td>
+    <td>Guinea Pig</td>
+  </tr>
+</table>
 ```
-<ul>
-  <li>Dog</li>
-  <li>Guinea Pig</li>
-</ul>
+<table>
+  <tr>
+    <td>Hamster</td>
+    <td>Guinea Pig</td>
+  </tr>
+  <tr>
+    <td>Hamster</td>
+    <td>Guinea Pig</td>
+  </tr>
+</table>
 
-### 9. 
+### 10. `<blockquote>` -- Indicates an extended quotation
+* *type:* block-level
+* *content:* flow content, sectioning root, palpable content
+* *support:* all browsers
+* *example:* 
+```
+<blockquote cite="facebook.com/quote">
+  <p>This is a quote from facebook</p>
+</blockquote>
+```
+<blockquote cite="facebook.com/quote">
+  <p>This is a quote from facebook</p>
+</blockquote>
 
 
-
-* *type:*
-* *content:*
-* *support:*
-* *example:*
-
-* *type:*
-* *content:*
-* *support:*
-* *example:*
-
-* *type:*
-* *content:*
-* *support:*
-* *example:*
-
-* *type:*
-* *content:*
-* *support:*
-* *example:*
