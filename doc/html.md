@@ -157,4 +157,54 @@
   <p>This is a quote from facebook</p>
 </blockquote>
 
+### 11. `<figure>` -- A container for content
+* *type:* block-level
+* *content:* flow content, sectioning content, palpable, content
+* *support:* all browsers
+* *example:*
+```
+<figure>
+	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">
+</figure>
 
+```
+<figure>
+	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">
+</figure>
+
+###12.
+* *type:* 
+* *content:*
+* *support:*
+* *example:*
+```
+
+
+```
+
+* *type:* 
+* *content:*
+* *support:*
+* *example:*
+```
+
+
+```
+
+* *type:* 
+* *content:*
+* *support:*
+* *example:*
+```
+
+
+```
+
+* *type:* 
+* *content:*
+* *support:*
+* *example:*
+```
+
+
+```
