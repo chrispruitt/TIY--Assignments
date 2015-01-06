@@ -13,32 +13,27 @@
 ###4. `<clear>` -- Determines the placement of element relative to other floaters
 * *elements:* applies to all block-level elements
 * *inherited:* no
-* 
 
-* *elements:*
-* *inherited:* 
-* 
+### 5. `<font-family>` -- Determines the font of text
+* *elements:* affects all elements
+* *inherited:* yes
 
+### 6. `<text-decoration>` -- Determines the decoration of text 
+* *elements:* applies to all elements
+* *inherited:* yes
 
-* *elements:*
-* *inherited:* 
-* 
+### 7. `<opacity>` -- Determines transparency of element
+* *elements:* applies to all elements
+* *inherited:* no
 
+### 8. `<em>` -- Determines text size
+* *elements:* applies to text 
+* *inherited:* no
 
-* *elements:*
-* *inherited:* 
-* 
+### 9. `<color>` -- Applies color to foreground of space
+* *elements:* Applies to all elements 
+* *inherited:* yes
 
-
-* *elements:*
-* *inherited:* 
-* 
-
-
-* *elements:*
-* *inherited:* 
-* 
-
-
-* *elements:*
-* *inherited:* 
+### 10. `<cursor>` -- Specifies the cursor displayed when hovering an element
+* *elements:* All elements
+* *inherited:* yes
