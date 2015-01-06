@@ -161,50 +161,126 @@
 * *type:* block-level
 * *content:* flow content, sectioning content, palpable, content
 * *support:* all browsers
-* *example:*
+* *example:* 
+
 ```
+<figure>
+  <img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">
+</figure>
+
+```
+
 <figure>
 	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">
 </figure>
 
-```
-<figure>
-	<img src="https://developer.cdn.mozilla.net/media/img/mdn-logo-sm.png" alt="An awesome picture">
-</figure>
+### 12. `<li>` -- Denotes a list item 
+* *type:* block-level
+* *content:* flow content
+* *support:* all browsers
+* *example:* 
 
-###12.
-* *type:* 
-* *content:*
-* *support:*
+```
+<ol>
+  <li>cat</li>
+  <li>dog</li>
+</ol>  
+```
+
+<ol>
+  <li>cat</li>
+  <li>dog</li>
+</ol>  
+
+### 13. `<pre>` -- Represents preformatted texts
+* *type:* block-level
+* *content:* flow content, palpable content
+* *support:* basic support all browsers
+* *example:* 
+
+```
+<pre> Lots of code and stuff </pre>
+
+```
+
+<pre> Lots of code and stuff </pre>
+
+### 14. `<span>` -- Allows grouping for style
+* *type:* inline block
+* *content:* flow content, phrasing content
+* *support:* all browsers
 * *example:*
-```
-
 
 ```
+<p>I have a <span>beautiful</span> guinea pig</p>
+```
 
-* *type:* 
-* *content:*
-* *support:*
+<p>I have a <span>beautiful</span> guinea pig</p>
+
+### 15. `<em>` -- Creates epmhasized text in italics
+* *type:* inline
+* *content:* flow content, phrasing content, palpable content
+* *support:* all browsers
+* *example:* 
+
+```
+<p>I have a <em>beautiful</em> guinea pig</p>
+```
+
+<p>I have a <em>beautiful</em> guinea pig</p>
+
+### 16. `<time>` -- Represents time
+* *type:* inline
+* *content:* flow content, phrasing content, palpable content
+* *support:* all browsers
 * *example:*
-```
-
 
 ```
+<p>It is <time>16:00</time></p>
+```
+<p>It is <time>16:00</time></p>
 
-* *type:* 
-* *content:*
-* *support:*
+### 17. `<br>` -- Creates a page break
+* *type:* inline
+* *content:* flow content, phrasing content
+* *support:* all browsers
 * *example:*
+
+``` 
+<p>I have a <br> guinea pig</p>
 ```
+<p>I have a <br> guinea pig</p>
 
-
-```
-
-* *type:* 
-* *content:*
-* *support:*
+### 18. `<a>` -- Represents a hyperlink
+* *type:* inline
+* *content:* flow content, interactive content
+* *support:* all browsers
 * *example:*
-```
-
 
 ```
+<a href="facebook.com">Facebook</a>
+
+```
+<a href="facebook.com">Facebook</a>
+
+### 19. `<i>` -- Italics
+* *type:* inline
+* *content:* flow content
+* *support:* all browsers
+* *example:*
+
+```
+<p>Ted is a <i>guinea</i> pig</p>
+```
+<p>Ted is a <i>guinea</i> pig</p>
+
+### 20. `<strong>` -- Creates bold characters
+* *type:* inline 
+* *content:* flow content, phrasing content
+* *support:* all browsers
+* *example:*
+
+```
+<p>Ted is a <strong>guinea</strong> pig</p>
+```
+<p>Ted is a <strong>guinea</strong> pig</p>
