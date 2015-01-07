@@ -1,3 +1,21 @@
 header img {
     width: 100%;
 }
+
+.top-logo {
+    width: 96px;
+    height: 96px;
+    border-radius: 100%;
+}
+
+.sidebar {
+    float: left;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+.article {
+    float: left;
+    box-sizing: border-box;
+    width: 75%;
+}
