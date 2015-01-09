@@ -61,6 +61,20 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header div img {
+    width: 100%;
+    height: 520px;
+}
+
+.header-words {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    margin-top: -310px;
+    font-size: 89px;
+    letter-spacing: 1px;
+    
+}
 
 
 
