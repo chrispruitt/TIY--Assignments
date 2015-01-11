@@ -60,21 +60,33 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-header div img {
-    width: 100%;
-    height: 520px;
+header {
+    background-image: url('http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/9/26/1348685374708/Southern-Ocean-011.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 382px;
+    text-align: center;
 }
 
-.header-words {
-    text-align: center;
-    position: absolute;
-    width: 100%;
-    margin-top: -310px;
-    font-size: 89px;
-    letter-spacing: 1px;
+.logo {
     
 }
+
+nav {
+    
+}
+
+h1 {
+   color: white;
+   text-transform: uppercase;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: lighter;
+   font-size: 81px;
+   letter-spacing: 2px;
+}
+
+
+
 
 
 
