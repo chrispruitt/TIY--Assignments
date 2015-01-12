@@ -93,6 +93,8 @@ nav ul {
 
 nav ul li {
     display: inline-block;
+    font-family: 'Open Sans';
+    font-weight: lighter;
 }
 
 h1 {
@@ -107,8 +109,20 @@ h1 {
 }
 
 
+.entire-body {
+    margin: auto;
+    max-width: 550px;
+}
 
 
+.blog-post {
+    float: left;
+}
+
+
+.right-column {
+    float: right;
+}
 
 
 
