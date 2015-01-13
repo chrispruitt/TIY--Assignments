@@ -66,23 +66,55 @@ textarea {
 
 ul li{
      list-style: none;
+     position: relative;
 }
 
 .timestamp {
     position: absolute;
-    
+    top: 10%;
+    left: 7%;
+    line-height: 50px;
 }
 
 .date1 {
     text-align: right;
     display: block;
+    color: gray;
     
 }
 
 .time1 {
     display: block;
+    font-size: 2.9em;
+    color: #6cbfee;
+    
 }
 
+
+
+.date2 {
+    text-align: right;
+    display: block;
+    color: gray;
+}
+
+.time2 {
+    display: block;
+    font-size: 2.9em; 
+    color: #3594cb;
+}
+
+.date3 {
+    text-align: right;
+    display: block;
+    color: gray;
+}
+
+.time3 {
+    display: block;
+    font-size: 2.9em;
+    color: #6cbfee;
+}
 
 .first-post {
     background-color: #6cbfee;
