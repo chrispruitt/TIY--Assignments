@@ -60,70 +60,43 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-header {
-    background-image: url('http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/9/26/1348685374708/Southern-Ocean-011.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 382px;
-    text-align: center;
+.container {
+    width: 90%;
 }
 
-.navigation {
-    display: table;
-    width: 100%;
-    margin: 0 auto 80px;
-    max-width: 1000px ;
-    padding: 25px;
+ul li{
+     list-style: none;
 }
 
-.logo {
-    display: table-cell;
-}
-
-nav {
-    display: table-cell;
-    text-align: right;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-nav ul li {
-    display: inline-block;
-    font-family: 'Open Sans';
-    font-weight: lighter;
-}
-
-h1 {
-   color: white;
-   text-transform: uppercase;
-   font-family: 'Open Sans', sans-serif;
-   font-weight: lighter;
-   font-size: 81px;
-   letter-spacing: 2px;
-   margin: 0;
-   line-height: 70px;
-}
-
-
-.entire-body {
-    margin: auto;
-    max-width: 550px;
-}
-
-
-.blog-post {
-    float: left;
-}
-
-
-.right-column {
+.timestamp {
+    position: absolute;
     
 }
 
+.date1 {
+    text-align: right;
+    display: block;
+    
+}
+
+.time1 {
+    display: block;
+}
+
+
+.first-post {
+    background-color: #6cbfee;
+    color: white;
+    max-width: 700px;
+    margin: 0 0 15px 25%;
+    min-width: 350px;
+    padding: 2em;
+}
+
+h2 {
+    color: white;
+    margin-left: 20px;
+}
 
 
 
