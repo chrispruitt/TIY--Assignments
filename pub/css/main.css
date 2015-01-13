@@ -62,14 +62,26 @@ textarea {
    ========================================================================== */
 
 .header {
-    
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 8%;
 }
 
+.title {
+    font-family: tahoma;
+    float: left;
+}
 
+.nav-logos {
+    float: right;
+    padding-right: 3em;
+    padding-top: 0.8em;
+}
 
 .container {
     width: 90%;
     clear: both;
+    margin: auto;
 }
 
 ul li{
@@ -138,7 +150,9 @@ h2 {
     margin-left: 20px;
 }
 
-
+/*.container div .general-post:nth-child(even) {*/
+/*    background-color: #3594cb;*/
+/*}*/
 
 
 
