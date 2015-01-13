@@ -60,9 +60,23 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.container {
+    width: 90%;
+}
 
+ul li{
+     list-style: none;
+}
 
+.first-post {
+    background-color: #6cbfee;
+    color: white;
+    max-width: 800px;
+}
 
+h2 {
+    color:red;
+}
 
 
 
