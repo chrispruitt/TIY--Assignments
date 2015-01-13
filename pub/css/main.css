@@ -60,8 +60,16 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+.header {
+    
+}
+
+
+
 .container {
     width: 90%;
+    clear: both;
 }
 
 ul li{
@@ -116,7 +124,7 @@ ul li{
     color: #6cbfee;
 }
 
-.first-post {
+.general-post {
     background-color: #6cbfee;
     color: white;
     max-width: 700px;
