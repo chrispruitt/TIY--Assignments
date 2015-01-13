@@ -68,6 +68,22 @@ ul li{
      list-style: none;
 }
 
+.timestamp {
+    position: absolute;
+    
+}
+
+.date1 {
+    text-align: right;
+    display: block;
+    
+}
+
+.time1 {
+    display: block;
+}
+
+
 .first-post {
     background-color: #6cbfee;
     color: white;
