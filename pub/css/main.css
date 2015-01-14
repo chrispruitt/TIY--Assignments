@@ -96,8 +96,22 @@ ul li{
 .timestamp {
     position: absolute;
     top: 10%;
-    left: 7%;
+    left: 0;
     line-height: 50px;
+}
+
+.bubble {
+    color: yellow;
+    background-color: green;
+    border: 5px solid blue;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 53px;
+    position: absolute;
+    top: 25%;
+    left: 14%;
 }
 
 .date1 {
@@ -147,6 +161,7 @@ ul li{
     margin: 0 0 15px 25%;
     min-width: 350px;
     padding: 2em;
+    border-radius: 1em;
 }
 
 h2 {
@@ -154,9 +169,19 @@ h2 {
     margin-left: 20px;
 }
 
-
-    /*MEDIA QUERIES BELOW ================*/
-@media (max-width: 900px) {
+        /*MEDIA QUERIES FOR MID RANGE*/
+@media (max-width: 1199px)  {    
+        
+        
+        
+        
+        
+        
+        
+        
+}
+    /*MEDIA QUERIES FOR MOBILE BELOW ================*/
+@media (max-width: 650px) {
    
    header {
        padding: 0;
@@ -181,6 +206,11 @@ h2 {
     
     .dates {
         text-align: left;
+    }
+    
+    .bubble {
+        top: 3em;
+        left: 80%;
     }
     
     .general-post {
