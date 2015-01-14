@@ -61,6 +61,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
+
 .header {
     width: 90%;
     margin: 0 auto;
@@ -83,6 +85,8 @@ textarea {
     clear: both;
     margin: auto;
 }
+
+
 
 ul li{
      list-style: none;
@@ -150,18 +154,38 @@ h2 {
     margin-left: 20px;
 }
 
-/*.container div .general-post:nth-child(even) {*/
-/*    background-color: #3594cb;*/
-/*}*/
 
-
-
-
-
-
-
-
-
+    /*MEDIA QUERIES BELOW ================*/
+@media (max-width: 900px) {
+   
+   
+    
+    .timestamp {
+        position: relative;   
+        text-align: left;
+    }
+    
+    .dates {
+        text-align: left;
+    }
+    
+    .general-post {
+        margin: auto;
+        min-width: 200px;
+    }
+    
+    
+    ul {
+        padding: 0;
+    }
+    
+    
+    
+    
+    
+    
+    
+}
 
 /* ==========================================================================
    Media Queries
