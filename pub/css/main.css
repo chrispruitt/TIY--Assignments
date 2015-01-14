@@ -161,7 +161,7 @@ ul li{
     margin: 0 0 15px 25%;
     min-width: 350px;
     padding: 2em;
-    border-radius: 1em;
+    border-radius: .5em;
 }
 
 h2 {
@@ -170,12 +170,22 @@ h2 {
 }
 
         /*MEDIA QUERIES FOR MID RANGE*/
-@media (max-width: 1199px)  {    
+@media (max-width: 1000px)  {    
         
+    .time1 {
+        font-size: inherit;
+        font-size: 2.2em;
+}
+
+    .time2 {
+       font-size: inherit;
+       font-size: 2.2em;
+    }        
         
-        
-        
-        
+    .time3 {
+        font-size: inherit;
+        font-size: 2.2em;
+}       
         
         
         
