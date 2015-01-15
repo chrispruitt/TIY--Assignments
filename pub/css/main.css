@@ -60,37 +60,108 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+
+
+.header {
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 8%;
+}
+
+.title {
+    font-family: tahoma;
+    float: left;
+}
+
+.nav-logos {
+    float: right;
+    padding-right: 3em;
+    padding-top: 0.8em;
+}
+
 .container {
     width: 90%;
+    clear: both;
+    margin: auto;
 }
+
+
 
 ul li{
      list-style: none;
+     position: relative;
 }
 
 .timestamp {
     position: absolute;
-    
+    top: 10%;
+    left: 0;
+    line-height: 50px;
+}
+
+.bubble {
+    color: yellow;
+    background-color: green;
+    border: 5px solid blue;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 53px;
+    position: absolute;
+    top: 25%;
+    left: 14%;
 }
 
 .date1 {
     text-align: right;
     display: block;
+    color: gray;
     
 }
 
 .time1 {
     display: block;
+    font-size: 2.9em;
+    color: #6cbfee;
+    
 }
 
 
-.first-post {
+
+.date2 {
+    text-align: right;
+    display: block;
+    color: gray;
+}
+
+.time2 {
+    display: block;
+    font-size: 2.9em; 
+    color: #3594cb;
+}
+
+.date3 {
+    text-align: right;
+    display: block;
+    color: gray;
+}
+
+.time3 {
+    display: block;
+    font-size: 2.9em;
+    color: #6cbfee;
+}
+
+.general-post {
     background-color: #6cbfee;
     color: white;
     max-width: 700px;
     margin: 0 0 15px 25%;
     min-width: 350px;
     padding: 2em;
+    border-radius: .5em;
 }
 
 h2 {
@@ -98,16 +169,77 @@ h2 {
     margin-left: 20px;
 }
 
+        /*MEDIA QUERIES FOR MID RANGE*/
+@media (max-width: 1000px)  {    
+        
+    .time1 {
+        font-size: inherit;
+        font-size: 2.2em;
+}
 
-
-
-
-
-
-
-
-
-
+    .time2 {
+       font-size: inherit;
+       font-size: 2.2em;
+    }        
+        
+    .time3 {
+        font-size: inherit;
+        font-size: 2.2em;
+}       
+        
+        
+        
+}
+    /*MEDIA QUERIES FOR MOBILE BELOW ================*/
+@media (max-width: 650px) {
+   
+   header {
+       padding: 0;
+       
+   }
+    
+    .title {
+        float: none;
+        text-align: center;
+        margin-left: -8%;
+    }
+    
+    .nav-logos {
+        float: none;
+        text-align: center;
+    }
+    
+    .timestamp {
+        position: relative;   
+        text-align: left;
+    }
+    
+    .dates {
+        text-align: left;
+    }
+    
+    .bubble {
+        top: 3em;
+        left: 80%;
+    }
+    
+    .general-post {
+        margin: auto;
+        min-width: 200px;
+    }
+    
+    
+    ul {
+        padding: 0;
+    }
+    
+    
+    
+    
+    
+    
+    
+}
 
 /* ==========================================================================
    Media Queries
