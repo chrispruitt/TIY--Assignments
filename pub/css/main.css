@@ -103,11 +103,52 @@ header {
     background-image: url(../img/surf-waves.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     padding-bottom: 5%;
-    height: 14em;
+    height: 12em;
     width: 100%;
+    position: relative;
 }
 
+header nav {
+    text-align: center;
+    word-spacing: 1.2em;
+    padding-top: .5em
+    
+}
+
+header nav a {
+    text-decoration: none;
+    color: darkblue;
+    font-weight: 600;
+}
+
+header div {
+/*    this is the wave icon div  */
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+.waveicon {
+    height: 3.7em;
+    width: 3.7em;
+}
+
+header h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 2.6em;
+    margin-top: .3em;
+    text-transform:uppercase;
+    color: white;
+}
+
+header p {
+    text-align: center;
+    color: darkblue;
+    margin-top: -2em 
+}
 
 
 
