@@ -99,7 +99,14 @@ textarea {
 
 /*ADD THE HEADER AS A BACKGROUND IMG*/
 
-
+header {
+    background-image: url(../img/surf-waves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 5%;
+    height: 14em;
+    width: 100%;
+}
 
 
 
