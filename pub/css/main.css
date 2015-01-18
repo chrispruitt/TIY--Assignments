@@ -234,15 +234,40 @@ li span {
 
 
 .profile-picture {
-    height: 10em;
-    width: 10em;
+    height: 9.4em;
+    width: 9.4em;
     border-radius: 50%;
-    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
+.profile-pic-container {
+    margin-top: 8em;
+}
 
+.profilename {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 2em;
+    color: #006caf;
+    margin-top: .4em;
+}
 
+.sidebar-linkbuttons {
+    list-style: none;
+    padding-left: 0ex;
+    text-align: center;
+    margin-top: -2em
+}
 
+.sidebar-linkbuttons li {
+    display: inline-block;
+    margin: 0 1em 1em 0;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    color: #7c8288
+}
 
 
 
