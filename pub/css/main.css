@@ -119,7 +119,7 @@ header nav {
 
 header nav a {
     text-decoration: none;
-    color: darkblue;
+    color: #002f48;
     font-weight: 600;
 }
 
@@ -127,6 +127,10 @@ header div {
 /*    this is the wave icon div  */
     text-align: center;
     padding-top: 1.5em;
+}
+
+.invisible-icon-words {
+    display: none;
 }
 
 .waveicon {
@@ -146,14 +150,42 @@ header h1 {
 
 header p {
     text-align: center;
-    color: darkblue;
+    color: #002f48;
     margin-top: -2em 
 }
 
+/*BEGIN BODY SECTION OF PAGE*/
 
 
+.content-container {
+    width: 90%;   
+    margin: auto;
+}
 
 
+h2 {
+    font-size: 4em;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    word-spacing: -.05em;
+    color: #002f48;
+}
+
+.timeimg {
+       
+}
+
+.smallprofilepic {
+     border-radius: 50%;
+    display: none;
+/*    MUST BE DISPLAYED AT FULL SCREEN*/
+}
+
+time {
+    color: gray;
+    text-decoration: underline;
+    
+}
 
 
 
