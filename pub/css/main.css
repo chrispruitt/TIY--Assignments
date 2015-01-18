@@ -172,7 +172,7 @@ h2 {
 }
 
 .timeimg {
-       
+       margin-top: -3.5em
 }
 
 .smallprofilepic {
@@ -184,9 +184,61 @@ h2 {
 time {
     color: gray;
     text-decoration: underline;
+}
+
+article p {
+    line-height: 3.3ex;
+    color: #7c8288;
+    font-family: 'Open Sans'
+}
+
+article p:first-child {
+    padding-top: 2ex;   
+}
+
+h4 {
+    border-left: .2em solid lightgray;
+    padding: .7em;
+    color: #006caf;
+    font-size: 2em;
+    font-weight: lighter;
+    text-transform: uppercase;
+    margin: .7em auto .7em
+}   
+
+.icon-list {
     
 }
 
+.icon-list ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.icon-list ul li {
+    display: inline-block; 
+    margin: 0 1em 0 0; 
+}
+
+i {
+    background-color: darkgray;
+    padding: 2ex;
+    color: white;
+    
+}
+
+
+li span {
+    display: none;   
+}
+
+
+.profile-picture {
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+    
+}
 
 
 
