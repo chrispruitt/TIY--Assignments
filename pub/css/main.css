@@ -310,7 +310,7 @@ li span {
 }
 
 .bottom-pics {
-       
+       position: relative;
 }
 
 .bottom-pic-heading {
@@ -325,13 +325,15 @@ li span {
 .low-listed-pics {
     list-style: none;
     padding-left: 0;
-    text-align: center
+    text-align: center;
+    position: relative;
 }
 
 figure img {
     position: relative;
     margin: 0 0 2em;
     display: inline-block;
+    z-index: 2;
     
     
     
@@ -341,6 +343,9 @@ figure img {
 figure span {
     position: absolute;
     display: block;
+    z-index: 5;
+    
+    
 }
 
 
