@@ -19,8 +19,8 @@ function div(a, b) {
 };
 
 
-var = 
 
 
+assert.notEqual(prod(4, 7), 28)
 
 
