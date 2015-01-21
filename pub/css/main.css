@@ -123,41 +123,45 @@ td {
     padding-bottom: 8%;
 }
 
-.row1 :nth-of-type(odd) {
+.row1 :nth-of-type(even) {
     background-color: black;
     color: white;
 }
 
-.row2 :nth-of-type(even) {
-    background-color: black;
-}
-
-
-.row3 :nth-of-type(odd) {
+.row2 :nth-of-type(odd) {
     background-color: black;
     color: white;
 }
 
-.row4 :nth-of-type(even){
-    background-color: black;
-}
 
-.row5 :nth-of-type(odd) {
+.row3 :nth-of-type(even) {
     background-color: black;
     color: white;
 }
 
-.row6 :nth-of-type(even) {
-    background-color: black;
-}
-
-.row7 :nth-of-type(odd) {
+.row4 :nth-of-type(odd){
     background-color: black;
     color: white;
 }
 
-.row8 :nth-of-type(even) {
+.row5 :nth-of-type(even) {
     background-color: black;
+    color: white;
+}
+
+.row6 :nth-of-type(odd) {
+    background-color: black;
+    color: white;
+}
+
+.row7 :nth-of-type(even) {
+    background-color: black;
+    color: white;
+}
+
+.row8 :nth-of-type(odd) {
+    background-color: black;
+    color: white;
 }
 
 
