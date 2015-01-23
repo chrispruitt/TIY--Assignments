@@ -130,31 +130,45 @@ var popped = cat.pop();
 console.log(popped); // ['feline', 'siamese'];
 ```
 
-### []
+### [Push]
 
-* _symbol_: 
-* _pronunciation_:
+* _symbol_: .push()
+* _pronunciation_: push
 * _examples_:
 ```javascript
+var cars = ['jeep', 'toyota'];
+var final = cars.push('honda', 'scion');
 
+console.log(cars); // ['jeep', 'toyota', 'honda', 'scion']
 ```
 
-### []
+### [Splice]
 
-* _symbol_: 
-* _pronunciation_:
+* _symbol_: .splice(start, deleteCount, 'added item') 
+* _pronunciation_: splyce
 * _examples_:
 ```javascript
+var dog = ['beagle', 'poodle', 'shepherd'];
+dog.splice(1, 0, 'mutt');
 
+console.log(dog); // ['beagle', 'mutt', 'poodle', 'shepherd'];
+//mutt added
+
+dog.splice(2, 1);
+console.log(dog); // ['beagle', 'mutt', 'shepherd']; 
+//poodle deleted
 ```
 
-### []
+### [Shift]
 
-* _symbol_: 
-* _pronunciation_:
+* _symbol_: .shift()
+* _pronunciation_: shift dummy
 * _examples_:
 ```javascript
+var cars = ['jeep', 'toyota', 'honda'];
+cars.shift();
 
+console.log(cars); // ['toyota', 'honda'];
 ```
 
 
