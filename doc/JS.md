@@ -94,7 +94,68 @@ var dog =
 function(dog) = variable undefined
 ```
 
+### [Array]
 
+* _symbol_: `[ ]`
+* _pronunciation_: uh-ray
+* _examples_:
+```javascript
+var array = [6, 'dog', 22, , 'animal']
+var array = new Array(6, "dog", 22, "animal")
+```
+
+### [Length]
+
+* _symbol_: `.length`
+* _pronunciation_: ling-th
+* _examples_:
+```javascript
+var dog = "poodle";
+dog.length //would return 7
+
+var numbers = [2, 4, 6, 8];
+if (numbers.length > 2) {
+    numbers.length = 2;
+}   /*expect to shorten the length to 2 elements*/
+```
+
+### [Pop]
+
+* _symbol_: .pop()
+* _pronunciation_: paw-p
+* _examples_:
+```javascript
+var cat = ['feline', 'siamese', 'tabby'];
+var popped = cat.pop();
+console.log(popped); // ['feline', 'siamese'];
+```
+
+### []
+
+* _symbol_: 
+* _pronunciation_:
+* _examples_:
+```javascript
+
+```
+
+### []
+
+* _symbol_: 
+* _pronunciation_:
+* _examples_:
+```javascript
+
+```
+
+### []
+
+* _symbol_: 
+* _pronunciation_:
+* _examples_:
+```javascript
+
+```
 
 
 
