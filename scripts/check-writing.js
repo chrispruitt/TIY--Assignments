@@ -1,9 +1,7 @@
 var assert = require('assert');
 
 
-it('should return english string values from numbers', function() {
- assert.equal(giveNumber(0), "zero");   
-}
+
 
 var toEnglish = ['zero', 'one', 'two', 'three', 'four', 'five'];
 
@@ -26,11 +24,14 @@ function giveNumber(a) {
     else if (a == 5) {
         return toEnglish[5]; 
     }
-    else (a > 5) {
-        console.log('I cannot count that high brosef');
-    }
-}
+    else {
+        console.log('I cannot count that brosef');
+    };
+};
 
+it('should return english string values from numbers', function() {
+ assert.equal(giveNumber(0), "zero");   
+}
 
 /* all i get is error messages... We need to review mocha and the 'it' statement plz */
 
