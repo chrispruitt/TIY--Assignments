@@ -54,7 +54,7 @@ it('should return "four" when 4 is entered and "not the number 4" if any other n
 function toEnglish (a) {
     if (a == 5){
         return "five";
-    } else {
+    } else { 
         return "this is not the number 5";
     }
  }
