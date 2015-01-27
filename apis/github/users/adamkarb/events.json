@@ -1,0 +1,2821 @@
+[
+  {
+    "id": "2537390675",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/158",
+        "id": 55531279,
+        "number": 158,
+        "title": "13 -- Lists&Dicts -- Adam Karbiener",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2015-01-26T20:14:15Z",
+        "updated_at": "2015-01-26T20:15:24Z",
+        "closed_at": null,
+        "body": ""
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/comments/71529667",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/158#issuecomment-71529667",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158",
+        "id": 71529667,
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-01-26T20:15:24Z",
+        "updated_at": "2015-01-26T20:15:24Z",
+        "body": "[PR feat. 13](https://github.com/adamkarb/TIY--Assignments/pull/12)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-26T20:15:26Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2537388020",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/158/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/158",
+        "id": 55531279,
+        "number": 158,
+        "title": "13 -- Lists&Dicts -- Adam Karbiener",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-01-26T20:14:15Z",
+        "updated_at": "2015-01-26T20:14:15Z",
+        "closed_at": null,
+        "body": ""
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-26T20:14:15Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2537361769",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 12,
+      "pull_request": {
+        "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/12",
+        "id": 28055658,
+        "html_url": "https://github.com/adamkarb/TIY--Assignments/pull/12",
+        "diff_url": "https://github.com/adamkarb/TIY--Assignments/pull/12.diff",
+        "patch_url": "https://github.com/adamkarb/TIY--Assignments/pull/12.patch",
+        "issue_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/12",
+        "number": 12,
+        "state": "open",
+        "locked": false,
+        "title": "PR feature 13",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2015-01-26T20:03:18Z",
+        "updated_at": "2015-01-26T20:03:18Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/12/commits",
+        "review_comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/12/comments",
+        "review_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/12/comments",
+        "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/f4cc192a37ce4adedd54de08275d9b468267dad3",
+        "head": {
+          "label": "adamkarb:feature/13--lists+dicts",
+          "ref": "feature/13--lists+dicts",
+          "sha": "f4cc192a37ce4adedd54de08275d9b468267dad3",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 28673215,
+            "name": "TIY--Assignments",
+            "full_name": "adamkarb/TIY--Assignments",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/TIY--Assignments",
+            "description": "Assignment",
+            "fork": false,
+            "url": "https://api.github.com/repos/adamkarb/TIY--Assignments",
+            "forks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/releases{/id}",
+            "created_at": "2014-12-31T19:17:51Z",
+            "updated_at": "2015-01-26T19:43:31Z",
+            "pushed_at": "2015-01-26T20:02:50Z",
+            "git_url": "git://github.com/adamkarb/TIY--Assignments.git",
+            "ssh_url": "git@github.com:adamkarb/TIY--Assignments.git",
+            "clone_url": "https://github.com/adamkarb/TIY--Assignments.git",
+            "svn_url": "https://github.com/adamkarb/TIY--Assignments",
+            "homepage": null,
+            "size": 3840,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "adamkarb:master",
+          "ref": "master",
+          "sha": "7510226de493a200aca020d3aba783391ed1e532",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 28673215,
+            "name": "TIY--Assignments",
+            "full_name": "adamkarb/TIY--Assignments",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/TIY--Assignments",
+            "description": "Assignment",
+            "fork": false,
+            "url": "https://api.github.com/repos/adamkarb/TIY--Assignments",
+            "forks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/releases{/id}",
+            "created_at": "2014-12-31T19:17:51Z",
+            "updated_at": "2015-01-26T19:43:31Z",
+            "pushed_at": "2015-01-26T20:02:50Z",
+            "git_url": "git://github.com/adamkarb/TIY--Assignments.git",
+            "ssh_url": "git@github.com:adamkarb/TIY--Assignments.git",
+            "clone_url": "https://github.com/adamkarb/TIY--Assignments.git",
+            "svn_url": "https://github.com/adamkarb/TIY--Assignments",
+            "homepage": null,
+            "size": 3840,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/12"
+          },
+          "html": {
+            "href": "https://github.com/adamkarb/TIY--Assignments/pull/12"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/12"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/12/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/12/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/12/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/f4cc192a37ce4adedd54de08275d9b468267dad3"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 21,
+        "deletions": 1,
+        "changed_files": 2
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-26T20:03:19Z"
+  },
+  {
+    "id": "2537360648",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 556591945,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/13--lists+dicts",
+      "head": "f4cc192a37ce4adedd54de08275d9b468267dad3",
+      "before": "7510226de493a200aca020d3aba783391ed1e532",
+      "commits": [
+        {
+          "sha": "f4cc192a37ce4adedd54de08275d9b468267dad3",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Small change to make a pr",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/f4cc192a37ce4adedd54de08275d9b468267dad3"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-26T20:02:50Z"
+  },
+  {
+    "id": "2537354277",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "ref": "feature/13--lists+dicts",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Assignment",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-26T20:00:13Z"
+  },
+  {
+    "id": "2537312225",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "ref": "feature/11--coding-dojo",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-26T19:43:41Z"
+  },
+  {
+    "id": "2537311793",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 556572719,
+      "size": 12,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7510226de493a200aca020d3aba783391ed1e532",
+      "before": "90fcb32a9e4387620a745b901c916262e77e639f",
+      "commits": [
+        {
+          "sha": "e51816d47e717b8083e0fdaffffaff7a741f1fcb",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "deleted main.js",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/e51816d47e717b8083e0fdaffffaff7a741f1fcb"
+        },
+        {
+          "sha": "da6c87e3df9aaee3728fe75d41bff10aff742e61",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "added string calc and check-writing",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/da6c87e3df9aaee3728fe75d41bff10aff742e61"
+        },
+        {
+          "sha": "6157b912b33d453e81886b9bc2a87a330e72a371",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "added main.js ... Y U MAKE US DELETE DAVID?",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/6157b912b33d453e81886b9bc2a87a330e72a371"
+        },
+        {
+          "sha": "203dfa81136fd4d93be8ab46ef54e3988271da06",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "copying this lovely chess array",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/203dfa81136fd4d93be8ab46ef54e3988271da06"
+        },
+        {
+          "sha": "f249b8388b1961c2f0817bcf923c9aeabf22667d",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "I made chess happen",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/f249b8388b1961c2f0817bcf923c9aeabf22667d"
+        },
+        {
+          "sha": "ebfd2c08ddcc9041c643ea05be402b499ec246d7",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Added a few more JS.md mutator methods and array properties",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/ebfd2c08ddcc9041c643ea05be402b499ec246d7"
+        },
+        {
+          "sha": "81284a502f68f855b428a719c0c254271ddfd2aa",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Finished with those documentations... cool things to do with js",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/81284a502f68f855b428a719c0c254271ddfd2aa"
+        },
+        {
+          "sha": "a020175061cc1de079d9e3a843f3791ecf400063",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Did the first 5 check writing kata on my own",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/a020175061cc1de079d9e3a843f3791ecf400063"
+        },
+        {
+          "sha": "45e22bd3c5b349ac2b51b0d7f599e90e8a4ad9ff",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "small changes to check writing",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/45e22bd3c5b349ac2b51b0d7f599e90e8a4ad9ff"
+        },
+        {
+          "sha": "5dbba9cd79205bbed6fdec13e9477ec4742678b2",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "We need to review mocha and the it statement.   Getting so many errors that we cannot solve",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/5dbba9cd79205bbed6fdec13e9477ec4742678b2"
+        },
+        {
+          "sha": "6c5a76beb38c1c72161de12d76e04a306e672b76",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "string calculator test thing.  Think Im doing it right",
+          "distinct": false,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/6c5a76beb38c1c72161de12d76e04a306e672b76"
+        },
+        {
+          "sha": "7510226de493a200aca020d3aba783391ed1e532",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Merge pull request #11 from adamkarb/feature/11--coding-dojo\n\nFeature/11  coding dojo",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/7510226de493a200aca020d3aba783391ed1e532"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-26T19:43:31Z"
+  },
+  {
+    "id": "2537311781",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "action": "closed",
+      "number": 11,
+      "pull_request": {
+        "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11",
+        "id": 27875420,
+        "html_url": "https://github.com/adamkarb/TIY--Assignments/pull/11",
+        "diff_url": "https://github.com/adamkarb/TIY--Assignments/pull/11.diff",
+        "patch_url": "https://github.com/adamkarb/TIY--Assignments/pull/11.patch",
+        "issue_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11",
+        "number": 11,
+        "state": "closed",
+        "locked": false,
+        "title": "Feature/11  coding dojo",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2015-01-22T20:34:59Z",
+        "updated_at": "2015-01-26T19:43:31Z",
+        "closed_at": "2015-01-26T19:43:31Z",
+        "merged_at": "2015-01-26T19:43:31Z",
+        "merge_commit_sha": "c07601c12679bb6e5eca7957ab284e95acfe66bf",
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/commits",
+        "review_comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/comments",
+        "review_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/comments",
+        "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/6c5a76beb38c1c72161de12d76e04a306e672b76",
+        "head": {
+          "label": "adamkarb:feature/11--coding-dojo",
+          "ref": "feature/11--coding-dojo",
+          "sha": "6c5a76beb38c1c72161de12d76e04a306e672b76",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 28673215,
+            "name": "TIY--Assignments",
+            "full_name": "adamkarb/TIY--Assignments",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/TIY--Assignments",
+            "description": "Assignment",
+            "fork": false,
+            "url": "https://api.github.com/repos/adamkarb/TIY--Assignments",
+            "forks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/releases{/id}",
+            "created_at": "2014-12-31T19:17:51Z",
+            "updated_at": "2015-01-22T20:01:55Z",
+            "pushed_at": "2015-01-26T19:43:31Z",
+            "git_url": "git://github.com/adamkarb/TIY--Assignments.git",
+            "ssh_url": "git@github.com:adamkarb/TIY--Assignments.git",
+            "clone_url": "https://github.com/adamkarb/TIY--Assignments.git",
+            "svn_url": "https://github.com/adamkarb/TIY--Assignments",
+            "homepage": null,
+            "size": 3840,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "adamkarb:master",
+          "ref": "master",
+          "sha": "90fcb32a9e4387620a745b901c916262e77e639f",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 28673215,
+            "name": "TIY--Assignments",
+            "full_name": "adamkarb/TIY--Assignments",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/TIY--Assignments",
+            "description": "Assignment",
+            "fork": false,
+            "url": "https://api.github.com/repos/adamkarb/TIY--Assignments",
+            "forks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/releases{/id}",
+            "created_at": "2014-12-31T19:17:51Z",
+            "updated_at": "2015-01-22T20:01:55Z",
+            "pushed_at": "2015-01-26T19:43:31Z",
+            "git_url": "git://github.com/adamkarb/TIY--Assignments.git",
+            "ssh_url": "git@github.com:adamkarb/TIY--Assignments.git",
+            "clone_url": "https://github.com/adamkarb/TIY--Assignments.git",
+            "svn_url": "https://github.com/adamkarb/TIY--Assignments",
+            "homepage": null,
+            "size": 3840,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 0,
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11"
+          },
+          "html": {
+            "href": "https://github.com/adamkarb/TIY--Assignments/pull/11"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/6c5a76beb38c1c72161de12d76e04a306e672b76"
+          }
+        },
+        "merged": true,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "comments": 3,
+        "review_comments": 0,
+        "commits": 11,
+        "additions": 223,
+        "deletions": 9,
+        "changed_files": 4
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-26T19:43:31Z"
+  },
+  {
+    "id": "2535585432",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29449521,
+      "name": "adamkarb/adamkarb.github.io",
+      "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io"
+    },
+    "payload": {
+      "push_id": 555867344,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "2302060467d24bda73e9fba5d31b88397092aa8c",
+      "before": "e81578275bb3f4400b5d3d8b3b97adb166d785b7",
+      "commits": [
+        {
+          "sha": "2302060467d24bda73e9fba5d31b88397092aa8c",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Touching up the footer.  Still have a slight bit of work to do",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io/commits/2302060467d24bda73e9fba5d31b88397092aa8c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-26T03:40:35Z"
+  },
+  {
+    "id": "2535353376",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 555763459,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/11--coding-dojo",
+      "head": "6c5a76beb38c1c72161de12d76e04a306e672b76",
+      "before": "5dbba9cd79205bbed6fdec13e9477ec4742678b2",
+      "commits": [
+        {
+          "sha": "6c5a76beb38c1c72161de12d76e04a306e672b76",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "string calculator test thing.  Think Im doing it right",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/6c5a76beb38c1c72161de12d76e04a306e672b76"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T22:52:27Z"
+  },
+  {
+    "id": "2535316117",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 555745320,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/11--coding-dojo",
+      "head": "5dbba9cd79205bbed6fdec13e9477ec4742678b2",
+      "before": "45e22bd3c5b349ac2b51b0d7f599e90e8a4ad9ff",
+      "commits": [
+        {
+          "sha": "5dbba9cd79205bbed6fdec13e9477ec4742678b2",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "We need to review mocha and the it statement.   Getting so many errors that we cannot solve",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/5dbba9cd79205bbed6fdec13e9477ec4742678b2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T22:07:44Z"
+  },
+  {
+    "id": "2535275737",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 555725874,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/11--coding-dojo",
+      "head": "45e22bd3c5b349ac2b51b0d7f599e90e8a4ad9ff",
+      "before": "a020175061cc1de079d9e3a843f3791ecf400063",
+      "commits": [
+        {
+          "sha": "45e22bd3c5b349ac2b51b0d7f599e90e8a4ad9ff",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "small changes to check writing",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/45e22bd3c5b349ac2b51b0d7f599e90e8a4ad9ff"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T21:21:22Z"
+  },
+  {
+    "id": "2535275281",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 555725648,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/11--coding-dojo",
+      "head": "a020175061cc1de079d9e3a843f3791ecf400063",
+      "before": "81284a502f68f855b428a719c0c254271ddfd2aa",
+      "commits": [
+        {
+          "sha": "a020175061cc1de079d9e3a843f3791ecf400063",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Did the first 5 check writing kata on my own",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/a020175061cc1de079d9e3a843f3791ecf400063"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T21:20:49Z"
+  },
+  {
+    "id": "2534587288",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 55203475,
+        "number": 151,
+        "title": "11 -- Coding Dojo Style -- Adam Karbiener",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2015-01-22T20:20:05Z",
+        "updated_at": "2015-01-25T03:58:50Z",
+        "closed_at": null,
+        "body": "### Tasks\r\n\r\n* [x] **Yak Shaving**\r\n  * [x] Merge your last PR if you haven't already! (use the merge button, Luke)\r\n  * [x] Pull your `master` branch locally _after_ you merge!\r\n  * [x] Create a new branch called `feature/11--coding-dojo`\r\n  * [x] Delete and commit `scripts/main.js`\r\n  * [x] Create and commit `scripts/string-calculator.js` and `scripts/check-writing.js`\r\n  * [x] Push your branch and open a PR\r\n* [x] **Reading JavaScript**\r\n  * [x] Checkpoint: `Array` literals: empty and filled\r\n  * [x] Checkpoint: Other ways to create an `Array`?\r\n  * [x] Checkpoint: What's your `length`...?\r\n  * [x] Checkpoint: First Mutator method!\r\n  * [x] Checkpoint: Five Mutators down!\r\n  * [x] Checkpoint: What, there's only 7?\r\n  * [x] Mission Complete!\r\n* [x] **A Nice Game of Chess**\r\n  * [x] Checkpoint: Retyped [the example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Example:_Creating_a_two-dimensional_array) in `scripts/main.js`\r\n  * [x] Checkpoint: I can move pieces! Well, one, really.\r\n  * [x] Checkpoint: Moved _both_ sides at least once!\r\n  * [x] Checkpoint: Opening complete!\r\n* [ ] **Coding Dojo** -- Time for your katas\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _my_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _another_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"ten\"`! (HipChat that $#!+)\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _my_ repo\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _another_ repo\r\n  * **BONUS:** TDD **Check Writing** above `20`...?\r\n* [x] [**JavaScript Koans**](https://github.com/mrdavidlaing/javascript-koans)\r\n  * [x] Checkpoint: Forked and installed...!\r\n  * [x] Checkpoint: Ran it and it broke... as intended!\r\n  * [x] Checkpoint: Got `AboutExpects.js` green!\r\n  * [x] Checkpoint: Got `AboutArrays.js` green!\r\n  * **BONUS:** Got `AboutFunctions.js` green! (but I'm really confused)\r\n  * **BONUS:** Got `AboutObjects.js` green! (wasn't that bad, actually)\r\n* [ ] **BLOG IT!**"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/comments/71350467",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151#issuecomment-71350467",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 71350467,
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-01-25T03:58:50Z",
+        "updated_at": "2015-01-25T03:58:50Z",
+        "body": "[Blog Post 2](https://adamkarb.github.io/#post2)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-25T03:58:51Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2534585125",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29449521,
+      "name": "adamkarb/adamkarb.github.io",
+      "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io"
+    },
+    "payload": {
+      "push_id": 555414217,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "e81578275bb3f4400b5d3d8b3b97adb166d785b7",
+      "before": "23ffdcd78c8375366050e98717cc811800ac4696",
+      "commits": [
+        {
+          "sha": "e81578275bb3f4400b5d3d8b3b97adb166d785b7",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Still fixing this permalink issue",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io/commits/e81578275bb3f4400b5d3d8b3b97adb166d785b7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T03:54:39Z"
+  },
+  {
+    "id": "2534582325",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29449521,
+      "name": "adamkarb/adamkarb.github.io",
+      "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io"
+    },
+    "payload": {
+      "push_id": 555412976,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "23ffdcd78c8375366050e98717cc811800ac4696",
+      "before": "7ed46c899482a81a978edd54d0b5c6a68f9db9e1",
+      "commits": [
+        {
+          "sha": "23ffdcd78c8375366050e98717cc811800ac4696",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Working on permalinks to post 2",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io/commits/23ffdcd78c8375366050e98717cc811800ac4696"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T03:49:15Z"
+  },
+  {
+    "id": "2534568516",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29449521,
+      "name": "adamkarb/adamkarb.github.io",
+      "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io"
+    },
+    "payload": {
+      "push_id": 555406738,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "7ed46c899482a81a978edd54d0b5c6a68f9db9e1",
+      "before": "5768b1bef2e13ff3fe67d6a7f72484606ab1bb0f",
+      "commits": [
+        {
+          "sha": "7ed46c899482a81a978edd54d0b5c6a68f9db9e1",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Added a new blog post for the week",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/adamkarb.github.io/commits/7ed46c899482a81a978edd54d0b5c6a68f9db9e1"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-25T03:23:56Z"
+  },
+  {
+    "id": "2532935202",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 55203475,
+        "number": 151,
+        "title": "11 -- Coding Dojo Style -- Adam Karbiener",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 2,
+        "created_at": "2015-01-22T20:20:05Z",
+        "updated_at": "2015-01-23T19:31:28Z",
+        "closed_at": null,
+        "body": "### Tasks\r\n\r\n* [ ] **Yak Shaving**\r\n  * [x] Merge your last PR if you haven't already! (use the merge button, Luke)\r\n  * [x] Pull your `master` branch locally _after_ you merge!\r\n  * [x] Create a new branch called `feature/11--coding-dojo`\r\n  * [x] Delete and commit `scripts/main.js`\r\n  * [x] Create and commit `scripts/string-calculator.js` and `scripts/check-writing.js`\r\n  * [x] Push your branch and open a PR\r\n* [ ] **Reading JavaScript**\r\n  * [ ] Checkpoint: `Array` literals: empty and filled\r\n  * [ ] Checkpoint: Other ways to create an `Array`?\r\n  * [ ] Checkpoint: What's your `length`...?\r\n  * [ ] Checkpoint: First Mutator method!\r\n  * [ ] Checkpoint: Five Mutators down!\r\n  * [ ] Checkpoint: What, there's only 7?\r\n  * [ ] Mission Complete!\r\n* [ ] **A Nice Game of Chess**\r\n  * [x] Checkpoint: Retyped [the example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Example:_Creating_a_two-dimensional_array) in `scripts/main.js`\r\n  * [x] Checkpoint: I can move pieces! Well, one, really.\r\n  * [x] Checkpoint: Moved _both_ sides at least once!\r\n  * [x] Checkpoint: Opening complete!\r\n* [ ] **Coding Dojo** -- Time for your katas\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _my_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _another_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"ten\"`! (HipChat that $#!+)\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _my_ repo\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _another_ repo\r\n  * **BONUS:** TDD **Check Writing** above `20`...?\r\n* [ ] [**JavaScript Koans**](https://github.com/mrdavidlaing/javascript-koans)\r\n  * [ ] Checkpoint: Forked and installed...!\r\n  * [ ] Checkpoint: Ran it and it broke... as intended!\r\n  * [ ] Checkpoint: Got `AboutExpects.js` green!\r\n  * [ ] Checkpoint: Got `AboutArrays.js` green!\r\n  * **BONUS:** Got `AboutFunctions.js` green! (but I'm really confused)\r\n  * **BONUS:** Got `AboutObjects.js` green! (wasn't that bad, actually)\r\n* [ ] **BLOG IT!**"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/comments/71250793",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151#issuecomment-71250793",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 71250793,
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-01-23T19:31:28Z",
+        "updated_at": "2015-01-23T19:31:28Z",
+        "body": "[Koan PR](https://github.com/adamkarb/javascript-koans/pull/1)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-23T19:31:29Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2532873749",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29745276,
+      "name": "adamkarb/javascript-koans",
+      "url": "https://api.github.com/repos/adamkarb/javascript-koans"
+    },
+    "payload": {
+      "push_id": 554674123,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/first",
+      "head": "0dd8cc22bc787407fefded916e47fdad69fadfbd",
+      "before": "d7a4316ce7f88e726964aea4c6c9488715c194bd",
+      "commits": [
+        {
+          "sha": "ee01565cde73d4d22e489a1bc5ca941ad044f1f4",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Working on the coans thing.  What kind of deviant created this?",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/javascript-koans/commits/ee01565cde73d4d22e489a1bc5ca941ad044f1f4"
+        },
+        {
+          "sha": "0dd8cc22bc787407fefded916e47fdad69fadfbd",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "finished with this koanhead",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/javascript-koans/commits/0dd8cc22bc787407fefded916e47fdad69fadfbd"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-23T19:06:50Z"
+  },
+  {
+    "id": "2532728715",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29745276,
+      "name": "adamkarb/javascript-koans",
+      "url": "https://api.github.com/repos/adamkarb/javascript-koans"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 1,
+      "pull_request": {
+        "url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/1",
+        "id": 27942822,
+        "html_url": "https://github.com/adamkarb/javascript-koans/pull/1",
+        "diff_url": "https://github.com/adamkarb/javascript-koans/pull/1.diff",
+        "patch_url": "https://github.com/adamkarb/javascript-koans/pull/1.patch",
+        "issue_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/1",
+        "number": 1,
+        "state": "open",
+        "locked": false,
+        "title": "Koan js",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2015-01-23T18:03:25Z",
+        "updated_at": "2015-01-23T18:03:25Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/1/commits",
+        "review_comments_url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/1/comments",
+        "review_comment_url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/1/comments",
+        "statuses_url": "https://api.github.com/repos/adamkarb/javascript-koans/statuses/d7a4316ce7f88e726964aea4c6c9488715c194bd",
+        "head": {
+          "label": "adamkarb:first",
+          "ref": "first",
+          "sha": "d7a4316ce7f88e726964aea4c6c9488715c194bd",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 29745276,
+            "name": "javascript-koans",
+            "full_name": "adamkarb/javascript-koans",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/javascript-koans",
+            "description": "Koans to learn Javascript",
+            "fork": true,
+            "url": "https://api.github.com/repos/adamkarb/javascript-koans",
+            "forks_url": "https://api.github.com/repos/adamkarb/javascript-koans/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/javascript-koans/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/javascript-koans/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/javascript-koans/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/javascript-koans/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/javascript-koans/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/javascript-koans/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/javascript-koans/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/javascript-koans/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/javascript-koans/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/javascript-koans/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/javascript-koans/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/javascript-koans/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/javascript-koans/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/javascript-koans/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/javascript-koans/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/javascript-koans/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/javascript-koans/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/javascript-koans/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/javascript-koans/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/javascript-koans/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/javascript-koans/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/javascript-koans/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/javascript-koans/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/javascript-koans/releases{/id}",
+            "created_at": "2015-01-23T17:56:46Z",
+            "updated_at": "2015-01-23T17:56:47Z",
+            "pushed_at": "2015-01-23T18:02:43Z",
+            "git_url": "git://github.com/adamkarb/javascript-koans.git",
+            "ssh_url": "git@github.com:adamkarb/javascript-koans.git",
+            "clone_url": "https://github.com/adamkarb/javascript-koans.git",
+            "svn_url": "https://github.com/adamkarb/javascript-koans",
+            "homepage": "",
+            "size": 3174,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "adamkarb:master",
+          "ref": "master",
+          "sha": "5f83a4716838027e1aa38b6c84e54590022d3a2c",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 29745276,
+            "name": "javascript-koans",
+            "full_name": "adamkarb/javascript-koans",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/javascript-koans",
+            "description": "Koans to learn Javascript",
+            "fork": true,
+            "url": "https://api.github.com/repos/adamkarb/javascript-koans",
+            "forks_url": "https://api.github.com/repos/adamkarb/javascript-koans/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/javascript-koans/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/javascript-koans/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/javascript-koans/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/javascript-koans/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/javascript-koans/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/javascript-koans/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/javascript-koans/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/javascript-koans/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/javascript-koans/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/javascript-koans/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/javascript-koans/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/javascript-koans/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/javascript-koans/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/javascript-koans/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/javascript-koans/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/javascript-koans/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/javascript-koans/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/javascript-koans/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/javascript-koans/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/javascript-koans/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/javascript-koans/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/javascript-koans/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/javascript-koans/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/javascript-koans/releases{/id}",
+            "created_at": "2015-01-23T17:56:46Z",
+            "updated_at": "2015-01-23T17:56:47Z",
+            "pushed_at": "2015-01-23T18:02:43Z",
+            "git_url": "git://github.com/adamkarb/javascript-koans.git",
+            "ssh_url": "git@github.com:adamkarb/javascript-koans.git",
+            "clone_url": "https://github.com/adamkarb/javascript-koans.git",
+            "svn_url": "https://github.com/adamkarb/javascript-koans",
+            "homepage": "",
+            "size": 3174,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "JavaScript",
+            "has_issues": false,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": true,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/1"
+          },
+          "html": {
+            "href": "https://github.com/adamkarb/javascript-koans/pull/1"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/issues/1"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/issues/1/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/1/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/pulls/1/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/adamkarb/javascript-koans/statuses/d7a4316ce7f88e726964aea4c6c9488715c194bd"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 1,
+        "additions": 2,
+        "deletions": 2,
+        "changed_files": 1
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-23T18:03:25Z"
+  },
+  {
+    "id": "2532727292",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29745276,
+      "name": "adamkarb/javascript-koans",
+      "url": "https://api.github.com/repos/adamkarb/javascript-koans"
+    },
+    "payload": {
+      "push_id": 554616612,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/first",
+      "head": "d7a4316ce7f88e726964aea4c6c9488715c194bd",
+      "before": "5f83a4716838027e1aa38b6c84e54590022d3a2c",
+      "commits": [
+        {
+          "sha": "d7a4316ce7f88e726964aea4c6c9488715c194bd",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "playing with the koan",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/javascript-koans/commits/d7a4316ce7f88e726964aea4c6c9488715c194bd"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-23T18:02:43Z"
+  },
+  {
+    "id": "2532722069",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 29745276,
+      "name": "adamkarb/javascript-koans",
+      "url": "https://api.github.com/repos/adamkarb/javascript-koans"
+    },
+    "payload": {
+      "ref": "first",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Koans to learn Javascript",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-23T18:00:28Z"
+  },
+  {
+    "id": "2532712991",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 1056938,
+      "name": "mrdavidlaing/javascript-koans",
+      "url": "https://api.github.com/repos/mrdavidlaing/javascript-koans"
+    },
+    "payload": {
+      "forkee": {
+        "id": 29745276,
+        "name": "javascript-koans",
+        "full_name": "adamkarb/javascript-koans",
+        "owner": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/adamkarb/javascript-koans",
+        "description": "Koans to learn Javascript",
+        "fork": true,
+        "url": "https://api.github.com/repos/adamkarb/javascript-koans",
+        "forks_url": "https://api.github.com/repos/adamkarb/javascript-koans/forks",
+        "keys_url": "https://api.github.com/repos/adamkarb/javascript-koans/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/adamkarb/javascript-koans/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/adamkarb/javascript-koans/teams",
+        "hooks_url": "https://api.github.com/repos/adamkarb/javascript-koans/hooks",
+        "issue_events_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/adamkarb/javascript-koans/events",
+        "assignees_url": "https://api.github.com/repos/adamkarb/javascript-koans/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/adamkarb/javascript-koans/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/adamkarb/javascript-koans/tags",
+        "blobs_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/adamkarb/javascript-koans/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/adamkarb/javascript-koans/languages",
+        "stargazers_url": "https://api.github.com/repos/adamkarb/javascript-koans/stargazers",
+        "contributors_url": "https://api.github.com/repos/adamkarb/javascript-koans/contributors",
+        "subscribers_url": "https://api.github.com/repos/adamkarb/javascript-koans/subscribers",
+        "subscription_url": "https://api.github.com/repos/adamkarb/javascript-koans/subscription",
+        "commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/adamkarb/javascript-koans/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/adamkarb/javascript-koans/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues/comments/{number}",
+        "contents_url": "https://api.github.com/repos/adamkarb/javascript-koans/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/adamkarb/javascript-koans/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/adamkarb/javascript-koans/merges",
+        "archive_url": "https://api.github.com/repos/adamkarb/javascript-koans/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/adamkarb/javascript-koans/downloads",
+        "issues_url": "https://api.github.com/repos/adamkarb/javascript-koans/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/adamkarb/javascript-koans/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/adamkarb/javascript-koans/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/adamkarb/javascript-koans/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/adamkarb/javascript-koans/labels{/name}",
+        "releases_url": "https://api.github.com/repos/adamkarb/javascript-koans/releases{/id}",
+        "created_at": "2015-01-23T17:56:46Z",
+        "updated_at": "2015-01-23T16:10:48Z",
+        "pushed_at": "2014-03-16T05:14:25Z",
+        "git_url": "git://github.com/adamkarb/javascript-koans.git",
+        "ssh_url": "git@github.com:adamkarb/javascript-koans.git",
+        "clone_url": "https://github.com/adamkarb/javascript-koans.git",
+        "svn_url": "https://github.com/adamkarb/javascript-koans",
+        "homepage": "",
+        "size": 3174,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_downloads": true,
+        "has_wiki": true,
+        "has_pages": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "open_issues_count": 0,
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "master",
+        "public": true
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-23T17:56:47Z"
+  },
+  {
+    "id": "2532548723",
+    "type": "PushEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "push_id": 554543655,
+      "size": 5,
+      "distinct_size": 5,
+      "ref": "refs/heads/feature/11--coding-dojo",
+      "head": "81284a502f68f855b428a719c0c254271ddfd2aa",
+      "before": "da6c87e3df9aaee3728fe75d41bff10aff742e61",
+      "commits": [
+        {
+          "sha": "6157b912b33d453e81886b9bc2a87a330e72a371",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "added main.js ... Y U MAKE US DELETE DAVID?",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/6157b912b33d453e81886b9bc2a87a330e72a371"
+        },
+        {
+          "sha": "203dfa81136fd4d93be8ab46ef54e3988271da06",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "copying this lovely chess array",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/203dfa81136fd4d93be8ab46ef54e3988271da06"
+        },
+        {
+          "sha": "f249b8388b1961c2f0817bcf923c9aeabf22667d",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "I made chess happen",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/f249b8388b1961c2f0817bcf923c9aeabf22667d"
+        },
+        {
+          "sha": "ebfd2c08ddcc9041c643ea05be402b499ec246d7",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Added a few more JS.md mutator methods and array properties",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/ebfd2c08ddcc9041c643ea05be402b499ec246d7"
+        },
+        {
+          "sha": "81284a502f68f855b428a719c0c254271ddfd2aa",
+          "author": {
+            "email": "adamkarb@gmail.com",
+            "name": "Adam Karbiener"
+          },
+          "message": "Finished with those documentations... cool things to do with js",
+          "distinct": true,
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits/81284a502f68f855b428a719c0c254271ddfd2aa"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-01-23T16:48:35Z"
+  },
+  {
+    "id": "2530455099",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11",
+        "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/labels{/name}",
+        "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/comments",
+        "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/events",
+        "html_url": "https://github.com/adamkarb/TIY--Assignments/pull/11",
+        "id": 55205169,
+        "number": 11,
+        "title": "Feature/11  coding dojo",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2015-01-22T20:34:59Z",
+        "updated_at": "2015-01-22T20:35:56Z",
+        "closed_at": null,
+        "pull_request": {
+          "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11",
+          "html_url": "https://github.com/adamkarb/TIY--Assignments/pull/11",
+          "diff_url": "https://github.com/adamkarb/TIY--Assignments/pull/11.diff",
+          "patch_url": "https://github.com/adamkarb/TIY--Assignments/pull/11.patch"
+        },
+        "body": ""
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/71093695",
+        "html_url": "https://github.com/adamkarb/TIY--Assignments/pull/11#issuecomment-71093695",
+        "issue_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11",
+        "id": 71093695,
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-01-22T20:35:55Z",
+        "updated_at": "2015-01-22T20:35:55Z",
+        "body": "[WIP](https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151("
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-22T20:35:56Z"
+  },
+  {
+    "id": "2530454118",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 55203475,
+        "number": 151,
+        "title": "11 -- Coding Dojo Style -- Adam Karbiener",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2015-01-22T20:20:05Z",
+        "updated_at": "2015-01-22T20:35:32Z",
+        "closed_at": null,
+        "body": "### Tasks\r\n\r\n* [ ] **Yak Shaving**\r\n  * [x] Merge your last PR if you haven't already! (use the merge button, Luke)\r\n  * [x] Pull your `master` branch locally _after_ you merge!\r\n  * [ ] Create a new branch called `feature/11--coding-dojo`\r\n  * [ ] Delete and commit `scripts/main.js`\r\n  * [ ] Create and commit `scripts/string-calculator.js` and `scripts/check-writing.js`\r\n  * [ ] Push your branch and open a PR\r\n* [ ] **Reading JavaScript**\r\n  * [ ] Checkpoint: `Array` literals: empty and filled\r\n  * [ ] Checkpoint: Other ways to create an `Array`?\r\n  * [ ] Checkpoint: What's your `length`...?\r\n  * [ ] Checkpoint: First Mutator method!\r\n  * [ ] Checkpoint: Five Mutators down!\r\n  * [ ] Checkpoint: What, there's only 7?\r\n  * [ ] Mission Complete!\r\n* [ ] **A Nice Game of Chess**\r\n  * [ ] Checkpoint: Retyped [the example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Example:_Creating_a_two-dimensional_array) in `scripts/main.js`\r\n  * [ ] Checkpoint: I can move pieces! Well, one, really.\r\n  * [ ] Checkpoint: Moved _both_ sides at least once!\r\n  * [ ] Checkpoint: Opening complete!\r\n* [ ] **Coding Dojo** -- Time for your katas\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _my_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _another_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"ten\"`! (HipChat that $#!+)\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _my_ repo\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _another_ repo\r\n  * **BONUS:** TDD **Check Writing** above `20`...?\r\n* [ ] [**JavaScript Koans**](https://github.com/mrdavidlaing/javascript-koans)\r\n  * [ ] Checkpoint: Forked and installed...!\r\n  * [ ] Checkpoint: Ran it and it broke... as intended!\r\n  * [ ] Checkpoint: Got `AboutExpects.js` green!\r\n  * [ ] Checkpoint: Got `AboutArrays.js` green!\r\n  * **BONUS:** Got `AboutFunctions.js` green! (but I'm really confused)\r\n  * **BONUS:** Got `AboutObjects.js` green! (wasn't that bad, actually)\r\n* [ ] **BLOG IT!**"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/comments/71093638",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151#issuecomment-71093638",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 71093638,
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-01-22T20:35:32Z",
+        "updated_at": "2015-01-22T20:35:32Z",
+        "body": "[PR](https://github.com/adamkarb/TIY--Assignments/pull/11)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-22T20:35:32Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2530452691",
+    "type": "PullRequestEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "action": "opened",
+      "number": 11,
+      "pull_request": {
+        "url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11",
+        "id": 27875420,
+        "html_url": "https://github.com/adamkarb/TIY--Assignments/pull/11",
+        "diff_url": "https://github.com/adamkarb/TIY--Assignments/pull/11.diff",
+        "patch_url": "https://github.com/adamkarb/TIY--Assignments/pull/11.patch",
+        "issue_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11",
+        "number": 11,
+        "state": "open",
+        "locked": false,
+        "title": "Feature/11  coding dojo",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "body": "",
+        "created_at": "2015-01-22T20:34:59Z",
+        "updated_at": "2015-01-22T20:34:59Z",
+        "closed_at": null,
+        "merged_at": null,
+        "merge_commit_sha": null,
+        "assignee": null,
+        "milestone": null,
+        "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/commits",
+        "review_comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/comments",
+        "review_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/comments/{number}",
+        "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/comments",
+        "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/da6c87e3df9aaee3728fe75d41bff10aff742e61",
+        "head": {
+          "label": "adamkarb:feature/11--coding-dojo",
+          "ref": "feature/11--coding-dojo",
+          "sha": "da6c87e3df9aaee3728fe75d41bff10aff742e61",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 28673215,
+            "name": "TIY--Assignments",
+            "full_name": "adamkarb/TIY--Assignments",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/TIY--Assignments",
+            "description": "Assignment",
+            "fork": false,
+            "url": "https://api.github.com/repos/adamkarb/TIY--Assignments",
+            "forks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/releases{/id}",
+            "created_at": "2014-12-31T19:17:51Z",
+            "updated_at": "2015-01-22T20:01:55Z",
+            "pushed_at": "2015-01-22T20:30:48Z",
+            "git_url": "git://github.com/adamkarb/TIY--Assignments.git",
+            "ssh_url": "git@github.com:adamkarb/TIY--Assignments.git",
+            "clone_url": "https://github.com/adamkarb/TIY--Assignments.git",
+            "svn_url": "https://github.com/adamkarb/TIY--Assignments",
+            "homepage": null,
+            "size": 3840,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "base": {
+          "label": "adamkarb:master",
+          "ref": "master",
+          "sha": "90fcb32a9e4387620a745b901c916262e77e639f",
+          "user": {
+            "login": "adamkarb",
+            "id": 7321950,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adamkarb",
+            "html_url": "https://github.com/adamkarb",
+            "followers_url": "https://api.github.com/users/adamkarb/followers",
+            "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+            "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+            "repos_url": "https://api.github.com/users/adamkarb/repos",
+            "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+            "type": "User",
+            "site_admin": false
+          },
+          "repo": {
+            "id": 28673215,
+            "name": "TIY--Assignments",
+            "full_name": "adamkarb/TIY--Assignments",
+            "owner": {
+              "login": "adamkarb",
+              "id": 7321950,
+              "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/adamkarb",
+              "html_url": "https://github.com/adamkarb",
+              "followers_url": "https://api.github.com/users/adamkarb/followers",
+              "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+              "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+              "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+              "repos_url": "https://api.github.com/users/adamkarb/repos",
+              "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "private": false,
+            "html_url": "https://github.com/adamkarb/TIY--Assignments",
+            "description": "Assignment",
+            "fork": false,
+            "url": "https://api.github.com/repos/adamkarb/TIY--Assignments",
+            "forks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/forks",
+            "keys_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/teams",
+            "hooks_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/hooks",
+            "issue_events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/events",
+            "assignees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/tags",
+            "blobs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/languages",
+            "stargazers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/stargazers",
+            "contributors_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contributors",
+            "subscribers_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscribers",
+            "subscription_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/subscription",
+            "commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/comments/{number}",
+            "contents_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/merges",
+            "archive_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/downloads",
+            "issues_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/labels{/name}",
+            "releases_url": "https://api.github.com/repos/adamkarb/TIY--Assignments/releases{/id}",
+            "created_at": "2014-12-31T19:17:51Z",
+            "updated_at": "2015-01-22T20:01:55Z",
+            "pushed_at": "2015-01-22T20:30:48Z",
+            "git_url": "git://github.com/adamkarb/TIY--Assignments.git",
+            "ssh_url": "git@github.com:adamkarb/TIY--Assignments.git",
+            "clone_url": "https://github.com/adamkarb/TIY--Assignments.git",
+            "svn_url": "https://github.com/adamkarb/TIY--Assignments",
+            "homepage": null,
+            "size": 3840,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": "CSS",
+            "has_issues": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "open_issues_count": 1,
+            "forks": 0,
+            "open_issues": 1,
+            "watchers": 0,
+            "default_branch": "master"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11"
+          },
+          "html": {
+            "href": "https://github.com/adamkarb/TIY--Assignments/pull/11"
+          },
+          "issue": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11"
+          },
+          "comments": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/issues/11/comments"
+          },
+          "review_comments": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/comments"
+          },
+          "review_comment": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/comments/{number}"
+          },
+          "commits": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/pulls/11/commits"
+          },
+          "statuses": {
+            "href": "https://api.github.com/repos/adamkarb/TIY--Assignments/statuses/da6c87e3df9aaee3728fe75d41bff10aff742e61"
+          }
+        },
+        "merged": false,
+        "mergeable": null,
+        "mergeable_state": "unknown",
+        "merged_by": null,
+        "comments": 0,
+        "review_comments": 0,
+        "commits": 2,
+        "additions": 0,
+        "deletions": 12,
+        "changed_files": 3
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-22T20:34:59Z"
+  },
+  {
+    "id": "2530442481",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "ref": "feature/11--coding-dojo",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "Assignment",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-22T20:30:49Z"
+  },
+  {
+    "id": "2530416430",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 25180640,
+      "name": "TheIronYard--Orlando/FEE--2015--SPRING",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/FEE--2015--SPRING/issues/151/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/FEE--2015--SPRING/issues/151",
+        "id": 55203475,
+        "number": 151,
+        "title": "11 -- Coding Dojo Style -- Adam Karbiener",
+        "user": {
+          "login": "adamkarb",
+          "id": 7321950,
+          "avatar_url": "https://avatars.githubusercontent.com/u/7321950?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adamkarb",
+          "html_url": "https://github.com/adamkarb",
+          "followers_url": "https://api.github.com/users/adamkarb/followers",
+          "following_url": "https://api.github.com/users/adamkarb/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adamkarb/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adamkarb/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adamkarb/subscriptions",
+          "organizations_url": "https://api.github.com/users/adamkarb/orgs",
+          "repos_url": "https://api.github.com/users/adamkarb/repos",
+          "events_url": "https://api.github.com/users/adamkarb/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adamkarb/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-01-22T20:20:05Z",
+        "updated_at": "2015-01-22T20:20:05Z",
+        "closed_at": null,
+        "body": "### Tasks\r\n\r\n* [ ] **Yak Shaving**\r\n  * Merge your last PR if you haven't already! (use the merge button, Luke)\r\n  * Pull your `master` branch locally _after_ you merge!\r\n  * Create a new branch called `feature/11--coding-dojo`\r\n  * Delete and commit `scripts/main.js`\r\n  * Create and commit `scripts/string-calculator.js` and `scripts/check-writing.js`\r\n  * Push your branch and open a PR\r\n* [ ] **Reading JavaScript**\r\n  * [ ] Checkpoint: `Array` literals: empty and filled\r\n  * [ ] Checkpoint: Other ways to create an `Array`?\r\n  * [ ] Checkpoint: What's your `length`...?\r\n  * [ ] Checkpoint: First Mutator method!\r\n  * [ ] Checkpoint: Five Mutators down!\r\n  * [ ] Checkpoint: What, there's only 7?\r\n  * [ ] Mission Complete!\r\n* [ ] **A Nice Game of Chess**\r\n  * [ ] Checkpoint: Retyped [the example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Example:_Creating_a_two-dimensional_array) in `scripts/main.js`\r\n  * [ ] Checkpoint: I can move pieces! Well, one, really.\r\n  * [ ] Checkpoint: Moved _both_ sides at least once!\r\n  * [ ] Checkpoint: Opening complete!\r\n* [ ] **Coding Dojo** -- Time for your katas\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _my_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"five\"` in _another_ repo\r\n  * [ ] Checkpoint: TDD **String Calculator** from `\"zero\"` to `\"ten\"`! (HipChat that $#!+)\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _my_ repo\r\n  * [ ] Checkpoint: TDD **Check Writing** from `1` to `10` in _another_ repo\r\n  * **BONUS:** TDD **Check Writing** above `20`...?\r\n* [ ] [**JavaScript Koans**](https://github.com/mrdavidlaing/javascript-koans)\r\n  * [ ] Checkpoint: Forked and installed...!\r\n  * [ ] Checkpoint: Ran it and it broke... as intended!\r\n  * [ ] Checkpoint: Got `AboutExpects.js` green!\r\n  * [ ] Checkpoint: Got `AboutArrays.js` green!\r\n  * **BONUS:** Got `AboutFunctions.js` green! (but I'm really confused)\r\n  * **BONUS:** Got `AboutObjects.js` green! (wasn't that bad, actually)\r\n* [ ] **BLOG IT!**"
+      }
+    },
+    "public": true,
+    "created_at": "2015-01-22T20:20:05Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2530382946",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 7321950,
+      "login": "adamkarb",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adamkarb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7321950?"
+    },
+    "repo": {
+      "id": 28673215,
+      "name": "adamkarb/TIY--Assignments",
+      "url": "https://api.github.com/repos/adamkarb/TIY--Assignments"
+    },
+    "payload": {
+      "ref": "feature/10--math-hard",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-01-22T20:06:17Z"
+  }
+]
