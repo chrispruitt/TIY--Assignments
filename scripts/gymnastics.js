@@ -2,10 +2,11 @@ var events = require('../apis/github/users/adamkarb/events.json');
 
 
 
-function answer() {
-    return    
-}
+//function answer() {
+//    return    
+//}
 
+console.log([2]);
 
 
 
