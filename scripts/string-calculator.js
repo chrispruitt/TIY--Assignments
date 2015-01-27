@@ -2,23 +2,39 @@ var assert = require('assert');
 
 
 
-it('should have a `plus` function', function() {
-    assert(plus);
-    assert.equal(typeof plus, 'function');
-    
-});
+//it('should have a `plus` function', function() {
+//    assert(plus);
+//    assert.equal(typeof plus, 'function');
+//    
+//});
+//
+//it('should add "zeros"', function() {
+//    assert.equal(plus("zero", "zero"), 0);
+//    assert.equal(plus("zero", "one"), 1);
+//    assert.equal(plus("zero", "two"), 2);
+//    assert.equal(plus("zero", "three"), 3);
+//    assert.equal(plus("zero", "four"), 4);
+//});
 
-it('should add "zeros"', function() {
-    assert.equal(plus("zero", "zero"), 0);
-    assert.equal(plus("zero", "one"), 1);
-    assert.equal(plus("zero", "two"), 2);
-    assert.equal(plus("zero", "three"), 3);
-    assert.equal(plus("zero", "four"), 4);
-});
 
-function plus(a, b) {
-    
-    var numbers = {
+  var numbers = {
+        
+        'twenty': 20,
+        'nineteen': 19,
+        'eighteen': 18,
+        'seventeen': 17,
+        'sixteen': 16,
+        'fifteen': 15,
+        'fourteen': 14,
+        'thirteen': 13,
+        'twelve': 12,
+        'eleven': 11,
+        'ten': 10,
+        'nine': 9,
+        'eight': 8,
+        'seven': 7,
+        'six': 6,
+        'five': 5,
         'four': 4,
         'three': 3,
         'two': 2,
@@ -26,17 +42,42 @@ function plus(a, b) {
         'zero': 0
         
     };
+
+
+
+
+function plus(a, b) {
     
-    if (numbers[b] !== undefined) {
-        return numbers[b];
-    }
+    return numbers[a] + numbers[b];
+    
+};
+
+function prod(a, b) {
+    
+    return numbers[a] * numbers[b];
+    
+};
+
+function minus(a, b) {
+    
+    return numbers[a] - numbers[b];
+    
+};
+
+function div(a, b) {
+    
+    return numbers[a] / numbers[b];
     
 };
 
 
-it('should add one to zero', function() {
-    assert.equal(plus('zero', 'one'), 1);
-});
+
+console.log(div('twelve', 'six'));
+
+
+//it('should add one to zero', function() {
+//    assert.equal(plus('zero', 'one'), 1);
+//});
 //    if (b == 'four') {
 //        return numbers[b];   
 //    }
