@@ -172,6 +172,110 @@ console.log(cars); // ['toyota', 'honda'];
 ```
 
 
+### [forEach]
+
+* _symbol_: .forEach();
+* _pronunciation_: fohr-ee-ch
+* _examples_:
+```javascript
+what the hell
+
+
+```
+
+### [Every]
+
+* _symbol_: .every()
+* _pronunciation_: e-ver-ee
+* _examples_:
+```javascript
+function isBigEnough(element, index, array) {
+  return element >= 10;
+}
+[12, 5, 8, 130, 44].every(isBigEnough);   // false
+[12, 54, 18, 130, 44].every(isBigEnough); // true
+
+
+
+```
+
+### [Filter]
+
+* _symbol_: .filter()
+* _pronunciation_: fill-terr
+* _examples_:
+```javascript
+function isBigEnough(element) {
+  return element >= 10;
+}
+var filtered = [12, 5, 8, 130, 44].filter(isBigEnough);
+// filtered is [12, 130, 44]
+
+
+```
+
+### [Map]
+
+* _symbol_: .map()
+* _pronunciation_: map
+* _examples_:
+```javascript
+var numbers = [1, 4, 9];
+var doubles = numbers.map(function(num) {
+  return num * 2;
+});
+// doubles is now [2, 8, 18]. numbers is still [1, 4, 9]
+
+
+```
+
+### []
+
+* _symbol_:
+* _pronunciation_:
+* _examples_:
+```javascript
+
+
+
+```
+
+### []
+
+* _symbol_:
+* _pronunciation_:
+* _examples_:
+```javascript
+
+
+
+```
+
+### []
+
+* _symbol_:
+* _pronunciation_:
+* _examples_:
+```javascript
+
+
+
+```
+
+### []
+
+* _symbol_:
+* _pronunciation_:
+* _examples_:
+```javascript
+
+
+
+```
+
+
+
+
 
 
 
