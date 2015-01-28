@@ -1,29 +1,31 @@
 var assert = require('assert');
 
 
-var j = 0;
-var i = 0;
+
 
 function solution (x) {
 
+    var sum = 0;
     
-    if ( x % 3 == 0 ) {
-        for (var i = 0; i < 10; i += 3) {
+        for(i = 0; i < x; i++) {
+    
+        if (i % 3 === 0 || i % 5 === 0) {
         
-            
-            console.log(i);
-        };
-    } 
-    
-    if ( x % 5 == 0 ) {
-        for (var j = 0; j < 10; j += 5) {
+            sum+=i;
+        }
 
-             j; 
-            console.log(j);
-        };
-     }
-    
+    }
    
+    return sum;
+    
+};
+console.log(solution(10));
+console.log(solution(20));
+console.log(solution(100));
+console.log(solution(1000));
+
+
+
     //    var counter = 0;
 //    if (x % 3 === 0 || x % 5 === 0) {
 //        return x;
@@ -33,7 +35,7 @@ function solution (x) {
 //        console.log('broken');    
 //    }
     
-};
+
 
 //console.log(solution(98));
 
