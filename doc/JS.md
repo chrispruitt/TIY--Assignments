@@ -229,35 +229,72 @@ var doubles = numbers.map(function(num) {
 
 ```
 
-### []
+### [Pluck]
+(https://lodash.com/docs#pluck)
 
-* _symbol_:
-* _pronunciation_:
+* _symbol_: _.pluck
+* _pronunciation_: pl-uh-k
 * _examples_:
 ```javascript
+var users = [
+  { 'user': 'barney', 'age': 36 },
+  { 'user': 'fred',   'age': 40 }
+];
 
+_.pluck(users, 'user');
+// → ['barney', 'fred']
+
+var userIndex = _.indexBy(users, 'user');
+_.pluck(userIndex, 'age');
+// → [36, 40] (iteration order is not guaranteed)
 
 
 ```
 
-### []
-
-* _symbol_:
-* _pronunciation_:
+### [Reject]
+(https://lodash.com/docs#reject)
+* _symbol_: _.reject
+* _pronunciation_: ree-jekt
 * _examples_:
 ```javascript
+var odds = _.reject([1, 2, 3, 4], function(n) { return n % 2 == 0; });
+// → [1, 3]
 
+var users = [
+  { 'user': 'barney', 'age': 36, 'active': false },
+  { 'user': 'fred',   'age': 40, 'active': true }
+];
+
+// using the "_.property" callback shorthand
+_.pluck(_.reject(users, 'active'), 'user');
+// → ['barney']
+
+// using the "_.matches" callback shorthand
+_.pluck(_.reject(users, { 'age': 36 }), 'user');
+// → ['fred']
 
 
 ```
 
-### []
-
-* _symbol_:
-* _pronunciation_:
+### [Where]
+(https://lodash.com/docs#where)
+* _symbol_: _.where
+* _pronunciation_: weh-r
 * _examples_:
 ```javascript
+var users = [
+  { 'user': 'barney', 'age': 36, 'status': 'busy', 'pets': ['hoppy'] },
+  { 'user': 'fred',   'age': 40, 'status': 'busy', 'pets': ['baby puss', 'dino'] }
+];
 
+_.pluck(_.where(users, { 'age': 36 }), 'user');
+// → ['barney']
+
+_.pluck(_.where(users, { 'pets': ['dino'] }), 'user');
+// → ['fred']
+
+_.pluck(_.where(users, { 'status': 'busy' }), 'user');
+// → ['barney', 'fred']
 
 
 ```
