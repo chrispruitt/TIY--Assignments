@@ -1,6 +1,9 @@
 $(document).ready(function() {
-   $('h2').click(function() {
-        $($("p")).toggleClass();  
+    
+    
+    $('.maindiv').click(function() {
+       $(this).children(2).toggleClass();
+          
        
    }); 
     
