@@ -24,7 +24,7 @@
         <!-- Add your site or application content here -->
 <div class="container">
         
-    <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="first column col-md-4 col-sm-6 col-xs-12">
         <form role="form">
             <div class="form-group">
                 <label for="nameinput">First Name</label>
@@ -51,7 +51,7 @@
     
     
     
-    <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="second column col-md-4 col-sm-6 col-xs-12">
         <form role="form">
             <div class="form-group">
                 <label for="phonenumber">Phone Number</label>
@@ -60,11 +60,18 @@
                 <label for="affiliations">Affiliations</label>
                 <textarea class="form-control" rows="8" placeholder="Tell us about some projects you have worked on..."></textarea>
                 
+                <label for="occupation">Occupation</label>
                 <select class="form-control">
-                    <option></option>
-                    <option></option>
-                    <option></option>
+                    <option>Pig wrangler</option>
+                    <option>Alligator wrestler</option>
+                    <option>Cowboy</option>
                 </select>
+                
+                <label for="Guineapigname">Guinea Pig Name</label>
+                <input type="text" class="form-control" placeholder="Theodore">
+                
+                <label for="favoritedevice">Favorite Device</label>
+                <input type="text" class="form-control" placeholder="iPod Shuffle... just kidding">
             </div>  <!--END OF .FORM-GROUP-->
         </form>     <!--END OF SECOND FORM-->
     </div>      <!-- SECOND INPUT COLUMN -->
@@ -72,11 +79,34 @@
     
     
     
-    <div class="col-md-4 col-sm-12 col-xs-12">
-    
+    <div class="third column col-md-4 col-sm-12 col-xs-12">
+        <form role="form">
+            <div class="form-group">
+                
+                <label for="typeoftalent">Type of talent</label>
+                <select class="form-control">
+                    <option>Catfish noodler</option>
+                    <option>Horse shoe-er</option>
+                    <option>Turtle tackler</option>
+                    <option>Wombat</option>
+                </select>
+                
+                <label for="favdrink">Favorite Drink</label>
+                <input type="text" class="form-control" placeholder="MO-hee-to">
+                
+                <label for="weaponofchoice">Weapon of choice</label> 
+                <input type="text" class="form-control" placeholder="Katana">
+                
+                <label for="comments">Comments</label>
+                <textarea class="form-control" rows="8" placeholder="We appreciate feedback!"></textarea>
+             </div>  <!--END OF FORM GROUP-->
+        </form>     <!--END OF FORM 'ROLEFORM'-->
     </div>   <!-- THIRD INPUT COLUMN --> 
         
-        
+    
+    <div class="button-container col-xs-12">
+        <button type="button" class="btn-lg">Submit Your Data</button>    
+    </div>    
         
         
         

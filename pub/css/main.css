@@ -97,21 +97,48 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    background-color: #47A3DA;
+}
+
+.column {
+    
+}
+
+label {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+.form-control {
+    border: 3px solid white;
+    background-color: #47A3DA
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #306b9a;
+    font-style: italic;
+    font-size: 2ex;
+}
+
+option {
+    color: #306b9a;
+}
 
 
 
 
 
 
+.button-container {
+    text-align: center;
+}
 
-
-
-
-
-
-
-
-
+.btn-lg {
+    width: 30%;
+    margin: 0 auto;
+}
 
 /* ==========================================================================
    Helper classes
