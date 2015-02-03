@@ -98,17 +98,22 @@ textarea {
    ========================================================================== */
 
 nav {
-    margin-top: 15ex;
+    /*margin-top: 15ex;*/
+    text-align: center;
+    border-bottom: 1px solid blue;
 }
 
 li {
     font-size: 2em;
     display: inline-block;
     margin: 0 .3em;
-    border: 2px solid blue
+    border: 2px solid blue;
+
 }
 
-
+a:before {
+    content: 
+}
 
 
 
