@@ -97,9 +97,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+nav {
+    margin-top: 15ex;
+}
 
-
-
+li {
+    font-size: 2em;
+    display: inline-block;
+    margin: 0 .3em;
+    border: 2px solid blue
+}
 
 
 
