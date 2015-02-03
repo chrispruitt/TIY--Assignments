@@ -115,7 +115,18 @@ a:before {
     content: 
 }
 
+i {
+    text-align: center;
+    margin: 0 5em
+}
 
+
+i span {
+    font-size: 3em;
+    border: 1pc solid blue;
+    padding-right: 3px;
+     
+}
 
 
 
