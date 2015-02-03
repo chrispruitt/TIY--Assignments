@@ -97,13 +97,36 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+nav {
+    /*margin-top: 15ex;*/
+    text-align: center;
+    border-bottom: 1px solid blue;
+}
+
+li {
+    font-size: 2em;
+    display: inline-block;
+    margin: 0 .3em;
+    border: 2px solid blue;
+
+}
+
+a:before {
+    content: 
+}
+
+i {
+    text-align: center;
+    margin: 0 5em
+}
 
 
-
-
-
-
-
+i span {
+    font-size: 3em;
+    border: 1pc solid blue;
+    padding-right: 3px;
+     
+}
 
 
 

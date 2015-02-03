@@ -97,6 +97,63 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h2 {
+    border-bottom: solid 1px lightgray;
+    padding-bottom: 1ex;
+    font-weight: 200;
+}
+h2 > a {
+    text-decoration: none;
+    color:blue;
+}
+h2 > a:before{
+    content: '\2799';
+    padding-right: 0.5em;
+    color: gray;
+    display: inline-block;
+    width: 1em;
+}
+
+h2 > a:hover:before{
+    content: '\2798';
+    color: blue;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+h2 + article {
+    display: none;
+}
+.open {
+    display: block;
+}
+h2.open + article {
+    display: block;
+}
+h2.open > a:before{
+    content: '\2797';
+    color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+.closed {
+    display: none;
+}
+
+
+
+
+
 
 
 
