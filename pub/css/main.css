@@ -97,21 +97,81 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    background-color: #47A3DA;
+    font-size: 2.5ex;
+}
+
+p {
+    margin-bottom: -2ex;
+    color: white;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+h1 {
+    color: white;
+    font-family: serif;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    color: white;
+    text-align: center;
+    margin-top: 3.7ex;
+    
+    
+}
+
+li {
+    display: inline-block;
+    margin: 0 1em;
+    
+}
+
+li:hover {
+    color: darkblue;
+}
+
+.column {
+    padding-top: 3ex;
+}
+
+label {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+.form-control {
+    border: 3px solid white;
+    background-color: #47A3DA
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #306b9a;
+    font-style: italic;
+    font-size: 2ex;
+}
+
+.styleselect {
+    color: #306b9a;
+}
 
 
 
 
 
 
+.button-container {
+    text-align: center;
+}
 
-
-
-
-
-
-
-
-
+.btn-lg {
+    width: 30%;
+    margin: 0 auto;
+}
 
 /* ==========================================================================
    Helper classes
