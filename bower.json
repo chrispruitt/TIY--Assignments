@@ -1,0 +1,19 @@
+{
+  "name": "Adam",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adamkarb/TIY--Assignments",
+  "authors": [
+    "Adam Karbiener <adamkarb@gmail.com>"
+  ],
+  "description": "Idk what this is",
+  "main": "index.html",
+  "license": "cc0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
