@@ -97,11 +97,34 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.avatar {
+    padding-top: 2ex;
+    border-radius: 5px;;
+/*    why the hell does this only apply to the bottom of photo ???? */
+}
 
+h2 {
+    
+    font-weight: bold;
+    font-size: 2em;
+}
 
+figcaption {
+    margin-top: -2ex;
+    font-weight: 200;
+    font-size: 1.2em;
+}
 
+.asidelinks {
+    
+    padding-top: 2ex;
+    border-top: 1px solid lightgray;
+    list-style: none;
+}
 
-
+.tab-letters {
+    color: darkgray;
+}
 
 
 
