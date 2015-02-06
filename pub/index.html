@@ -66,9 +66,9 @@
 <footer class="col-xs-12">
 
         <div class="commentbox">
-            <form role="form">
+            <form id="commentform" role="form">
                 <label for="comments">Comments</label>
-            <textarea  rows="3" placeholder="Leave a comment..." class="form-control" type="text" id="comments"></textarea>
+            <textarea  form="commentform" rows="3" placeholder="Leave a comment..." class="form-control" type="text" id="comments"></textarea>
 
 
 
@@ -76,7 +76,7 @@
     </div>
     
     <div class="button-container">
-        <button class="">Submit</button>
+        <button id="submission" form="commentform">Submit</button>
     </div>
 </footer>
 
