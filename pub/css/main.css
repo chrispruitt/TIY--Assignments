@@ -120,15 +120,43 @@ figcaption {
     padding-top: 2ex;
     border-top: 1px solid lightgray;
     list-style: none;
+    
+}
+
+.asidelinks li {
+    margin: 0.7ex 0;
+}
+
+.poprepoheading p {
+    font-weight: bold;
+}
+
+.pop-repositories > div {
+    
 }
 
 .tab-letters {
     color: darkgray;
 }
 
+footer {
+    position: absolute;
+    
+}
 
+.button-container {
+    text-align: right;
+}
 
-
+button {
+    margin-top: 2ex;
+    background-color: #8cd45b;
+    color: white;
+    height: 5ex;
+    width:  8em;
+    letter-spacing: .5px;
+    
+}
 
 
 
